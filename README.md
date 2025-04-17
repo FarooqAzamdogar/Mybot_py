@@ -1,0 +1,1 @@
+MyBot is a basic Python chatbot using NumPy and TensorFlow for deep learning. It processes user inputs with a neural network, perfect for beginners exploring AI and chatbot development. Easy to use, customize, and learn from!
